@@ -1,0 +1,21 @@
+{
+  "name": "freestyle_node_prj",
+  "version": "1.0.0",
+  "description": "自由风格nodejs打包项目",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snailCarl/freestyle_node_prj.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snailCarl/freestyle_node_prj/issues"
+  },
+  "homepage": "https://github.com/snailCarl/freestyle_node_prj#readme"
+}
